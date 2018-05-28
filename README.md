@@ -12,8 +12,8 @@ Data.xlsx file is the data template of Finero peridotite sample. The user is rec
 
 Template.xlsx file is an empty excel file where the user can fill in to run their own sample. The only difference compared to the previous one is that this file has no data.
 
-EWave_Exe.zip contains the source code and can be executed alone in MATLAB editor. In case the user wants to edit the code for multi-thread computation this source code can be taken.
+EWave_Exe.zip contains the source code and can be executed alone in MATLAB editor. In case the user wants to edit the code for multi-thread computation or in MATLAB script instead of GUI, this source code can be taken.
 
-In case there is any question, please feel free to contact: xinzhong0708@gmail.com
+In case there is any problem running the software or bug report, please feel free to contact: xinzhong0708@gmail.com. I am happy to assist.
 
 Xin Zhong, Oslo, Feb-2018
