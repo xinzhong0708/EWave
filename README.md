@@ -2,7 +2,11 @@
 
 EWave Program CAGEO 2018. Zhong and Frehner
 
-The code includes EWave.exe software which is a complied MATLAB GUI code that can be executed alone. Please install MATLAB runtime 9.2 and Microsoft Office to run this software. (MATLAB runtime can be found: https://se.mathworks.com/products/compiler/matlab-runtime.html)
+The code includes EWave.exe software which is a complied MATLAB GUI code that can be executed alone. 
+
+Please install MATLAB runtime 9.2 and Microsoft Office (Excel) to run this software. (MATLAB runtime can be found: https://se.mathworks.com/products/compiler/matlab-runtime.html). The code is compiled in Windows 10, 64bits system, it is recommended to use the same windows system.
+
+Files include:
 
 Data.xlsx file is the data template of Finero peridotite sample. The user is recommended to check the format and import data accordingly.
 
