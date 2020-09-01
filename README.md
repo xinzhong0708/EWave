@@ -1,3 +1,6 @@
+09/2020. New release of EWave standalone installation (EWave 2.0). The program is now a standalone program that install Runtime 9.3 automatically. Several updates are done including boundary stabilization, icon/splash image update and time increment change to speed up the calculation.
+
+
 # EWave
 
 EWave Program CAGEO 2018. Zhong and Frehner
